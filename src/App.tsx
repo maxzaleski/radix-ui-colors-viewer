@@ -1,9 +1,9 @@
-import React from "react";
-import styled from "styled-components";
+import React from 'react';
+import styled from 'styled-components';
 
-import { Section } from "./components";
+import { Section } from './components';
 
-import * as radixColors from "@radix-ui/colors";
+import * as radixColors from '@radix-ui/colors';
 const colours: { [key: string]: any } = radixColors;
 
 const Container = styled.div`
@@ -13,7 +13,7 @@ const Container = styled.div`
   align-items: center;
   padding: 48px 0;
 
-  div[role="palette"]:not(:first-child) {
+  div[role='palette']:not(:first-child) {
     margin-top: 40px;
   }
 `;

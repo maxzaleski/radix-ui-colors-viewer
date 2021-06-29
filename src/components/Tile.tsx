@@ -1,5 +1,5 @@
-import * as react from "react";
-import styled from "styled-components";
+import * as react from 'react';
+import styled from 'styled-components';
 
 const size = 64;
 const Colour = styled.div<{ value: string }>`

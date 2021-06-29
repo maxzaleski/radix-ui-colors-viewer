@@ -1,7 +1,6 @@
 {
-  "name": "my-app",
+  "name": "radix-ui-colors-viewer",
   "version": "0.1.0",
-  "private": true,
   "dependencies": {
     "@radix-ui/colors": "^0.1.7",
     "@testing-library/jest-dom": "^5.11.4",
@@ -19,11 +18,18 @@
     "typescript": "^4.1.2",
     "web-vitals": "^1.0.1"
   },
+  "repository": {
+    "url": "https://github.com/maxzaleski/radix-ui-colors-viewer"
+  },
+  "author": {
+    "name": "Maximilien Zaleski"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "prettier": "./node_modules/.bin/prettier --write ."
   },
   "eslintConfig": {
     "extends": [

@@ -1,7 +1,7 @@
-import * as react from "react";
-import styled from "styled-components";
+import * as react from 'react';
+import styled from 'styled-components';
 
-import { Tile } from "./Tile";
+import { Tile } from './Tile';
 
 const Container = styled.div`
   display: flex;
