@@ -2,7 +2,11 @@
 
 <div align="center">
   <img src="./.github/assets/screenshot.png"/>
-</div>
+</div> 
+
+## ⚠️ Update: Official documentation
+
+The amazing people at Radix have published [official documention](https://www.radix-ui.com/docs/colors/palette-composition/the-scales) for the project.
 
 ## Motivation
 
